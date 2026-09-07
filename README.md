@@ -32,3 +32,7 @@ streamlit run app.py
 
 ## Why LangGraph?
 LangGraph makes loops, branching, and revision cycles first-class — ideal for agent workflows that need quality gates.
+
+## Sample Outputs
+![Pipeline](outputs/pipeline_overview.png)
+![Research Report](outputs/sample_research_report.png)
